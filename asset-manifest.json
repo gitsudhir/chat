@@ -1,0 +1,13 @@
+{
+  "main.css": "/chat/static/css/main.7981734a.chunk.css",
+  "main.js": "/chat/static/js/main.8d9b86b6.chunk.js",
+  "main.js.map": "/chat/static/js/main.8d9b86b6.chunk.js.map",
+  "runtime~main.js": "/chat/static/js/runtime~main.54cd968c.js",
+  "runtime~main.js.map": "/chat/static/js/runtime~main.54cd968c.js.map",
+  "static/js/2.4baa8df5.chunk.js": "/chat/static/js/2.4baa8df5.chunk.js",
+  "static/js/2.4baa8df5.chunk.js.map": "/chat/static/js/2.4baa8df5.chunk.js.map",
+  "index.html": "/chat/index.html",
+  "precache-manifest.f50e80dc43dbc3224a92a27f67387d00.js": "/chat/precache-manifest.f50e80dc43dbc3224a92a27f67387d00.js",
+  "service-worker.js": "/chat/service-worker.js",
+  "static/css/main.7981734a.chunk.css.map": "/chat/static/css/main.7981734a.chunk.css.map"
+}
